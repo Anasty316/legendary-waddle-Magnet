@@ -1,0 +1,9 @@
+pyrogram==1.4
+tgcrypto
+requests
+pyromod
+yt-dlp
+aiohttp
+aiofiles
+
+
